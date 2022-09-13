@@ -1,0 +1,99 @@
+h2 {
+	color: darkmagenta;
+}
+
+h3 {
+	color: yellowgreen;
+}
+
+/* общие */
+.feature h4,
+.vps-feature h4,
+.dedicated-server h4,
+.cloud h4,
+.free-hosting h4 {
+	color: blue;
+}
+
+.advantage li b {
+	color: green;
+}
+
+.limitations li b {
+	color: red;
+}
+
+span {
+	color: deepskyblue;
+}
+
+/* #what-is-hosting */
+.hosting p {
+	color: blue;
+}
+
+/* #hosting-principles */
+.principles p {
+	color: brown;
+}
+
+/* #why-you-need-hosting */
+.why-you-need {
+	color: chartreuse;
+}
+
+/* #difference */
+.difference-domen {
+	color: darkmagenta;
+}
+
+/* #hosting-types */
+.types {
+	color: darkblue;
+}
+
+.types h3 {
+	color: black;
+}
+
+/* vps */
+.vps-feature p {
+	color: tomato;
+}
+
+/* dedicated-server */
+.dedicated-server p {
+	color: darkmagenta;
+}
+
+/* cloud */
+.cloud p {
+	color: violet;
+}
+
+/* free-hosting */
+.free-hosting p {
+	color: purple;
+}
+
+.free-hosting ol {
+	color: chartreuse;
+}
+
+/* #promotion */
+.download-speed {
+	color: green;
+}
+
+.continuous-work {
+	color: blue;
+}
+
+.safety {
+	color: tomato;
+}
+
+/* #choose */
+.choose-hosting p b {
+	color: blueviolet;
+}
